@@ -1,1 +1,4 @@
 # WPCEcommerce
+
+- Codeigniter
+- MySql
